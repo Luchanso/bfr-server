@@ -1,0 +1,22 @@
+{
+  "name": "bfr-server",
+  "version": "1.0.0",
+  "description": "Server for bunny runner",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luchanso/bfr-server.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Loutchansky Oleg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luchanso/bfr-server/issues"
+  },
+  "homepage": "https://github.com/Luchanso/bfr-server#readme"
+}
